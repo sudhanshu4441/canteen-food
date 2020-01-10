@@ -9,8 +9,8 @@ ReactDOM.render(<Head />, document.getElementById('head'));
 
 ReactDOM.render( <div>
 				<h2 className="margin"> popular near you </h2>
-				<Card name="canteen A" img="food"/>
-				<Card name="canteen B" img="wave"/>
+				<Card name="canteen A" />
+				<Card name="canteen B" />
 				<Card name="canteen C"/>
 				<Card name="canteen D" /> 
 			
